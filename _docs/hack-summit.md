@@ -4,10 +4,10 @@ prev_section: industries-that-we-avoid.html
 next_section: crisplets.html
 ---
 
-Crisp Hack Summit
+The Agility Hack Summit
 =================
 
-Crisp Hack Summit is a 2-day event where we meet up at a off-site location and hack on pet projects and similar.
+Our Hack Summit is a 2-day event where we meet up at a off-site location and hack on pet projects and similar.
 
 Hack Summit gives everyone an opportunity to:
 
@@ -18,7 +18,7 @@ Hack Summit gives everyone an opportunity to:
 -   get to know each other, and people who wish to join Crisp
 -   flee family chores ;)
 
-Why is it called Crisp Hack Summit?
+Why is it called The Agility Hack Summit?
 -----------------------------------
 
 We like the combination of the slightly unserious "Hack" and the quite pretentious "Summit".
