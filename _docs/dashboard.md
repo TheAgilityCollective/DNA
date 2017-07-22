@@ -7,9 +7,9 @@ next_section: office-team.html
 Crisp Dashboard
 ===============
 
-The dashboard is an internal shared google spreadsheet containing our most vital shared information. It started with just the [happiness index](happiness-index.html), and then we gradually added more sheets to it.
+The dashboard is an internal shared google spreadsheet containing our most vital shared information. 
 
-Here's a [Crisp Dashboard template & example](https://docs.google.com/a/crisp.se/spreadsheet/ccc?key=0ApEy2bnWDb5fdG1QZzZSeUhFQWJEc2pEdkVDOHkySEE)
+Here's a [Collectives Dashboard template & example](https://www.dropbox.com/s/dnhgbdpgp7f5d9w/Crisp%20Dashboard%20-%20template%20%26%20example.xlsx?dl=0) on dropbox.
 
 The dashboard contains:
 
@@ -17,8 +17,8 @@ The dashboard contains:
 -   **Happiness history** - how has the happiness index developed over time?
 -   **Capacity & availability** - who needs a new client?
 -   **Competency matrix** - who is good at what, and who is interested in what?
--   **Decision log** - which Crisp-wide decisions have been made?
--   **Fee income** - how much money is Crisp earning every month?
+-   **Decision log** - which Collective-wide decisions have been made?
+-   **Fee income** - how much money is 'the collective' earning every month?
 -   **Revenue per consultant** - economic figures on a person-by-person basis
 
 Who is responsible for keeping it up to date?
