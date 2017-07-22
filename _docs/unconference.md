@@ -7,7 +7,7 @@ next_section: email-conventions.html
 Crisp Unconference
 ==================
 
-Twice per year we do an internal unconference, in Sweden or abroad.
+Twice per year we do an internal unconference.
 
 An unconference is like a normal conference but with no predefined agenda, no predefined list of speakers, no slides, and… er… actually it’s not very much like a normal conference at all! It’s more like an alternative to a conference. If the purpose of a conference is to collaborate and communicate, then an unconference will often fulfill the same purpose in a more simple, fun, and effective way!
 
@@ -23,23 +23,22 @@ Through experimentation we've learned that twice per year is frequent enough to 
 Where do we go?
 ---------------
 
-Varies. We normally alternate between a small local trips (2 days at a venue near Stockholm), followed by a bigger international trip (4 days in some interesting European city, like Barcelona or Rome or Istanbul).
+Varies. We normally alternate between Wellington and Melbourne.
 
 Does everyone have to attend?
 -----------------------------
 
 More or less, yes. We haven't made it a formal rule, but implicitly people are expected to attend "most" conferences (sometimes Life gets in the way of course). This is our most important team activity, and all high-impact decisions happen there. We also get to know each other better, build trust, trade knowledge, and have lots of fun!
 
-Basically, the conference is where the Crisp DNA strengthens and evolves!
+Basically, the conference is where this DNA strengthens and evolves!
 
 The conference cost (travel, hotel, etc) is split evenly between all consultants, whether or not you attend. That way there's not much economic incentive to skip the conference (as in "I'm a bit low on cash now, so I'm skipping the conference"). You pay either way so you might as well attend :)
 
-In practice attendance has not been a problem so far. We usually have at least 90% of the company there, and our surveys show that people appreciate the conferences. Also, our [happiness index](happiness-index.html) usually makes a small jump up after each conference (since we often solve some of the pain points that the happiness survey revealed).
 
 Guiding principles
 ------------------
 
-Most of our conference is based on the [Open Space](http://en.wikipedia.org/wiki/Open_Space_Technology) format.
+The conference is based on the [Open Space](http://en.wikipedia.org/wiki/Open_Space_Technology) format.
 
 That means the only real rule is the **Law of 2 feet**. Our version of it is: **"if you aren't contributing or learning or having fun where you stand now, use your two feet (and go somewhere where you can contribute or learn or have fun)!"**
 
@@ -63,7 +62,7 @@ Normally 2 days of conferencing with a break in the middle. For the shorter trip
 
 > The break in the middle is very important. Quite often some hairy complicated issue is uncovered on day 1, then day 2 people are chatting about while doing touristy things, and over dinner, and sleeping on it, etc. Then on day 3 we get back together and have lots of ideas and insights, and can make good decisions!
 
-Here's a summary of what we typically do on a conference day:
+Here's a summary of what to expect on a conference day:
 
 ### 1. Do some lightning talks, or short team-building activities to get everyone inspired
 
@@ -119,7 +118,7 @@ Who organizes and facilitates the conference?
 
 The [office team](office-team.html) organize the trip itself (flight, hotel, venue, food, etc). The conference days are facilitated by a pair of Crisp consultants. Usually we rotate one person after every conference - the goal is that each conference should have one facilitator from last conference, and one that is new. That way the facilitator pair has experience from last conference, but also some new insights.
 
-> We're lucky in that many Crispers work as coaches and have lots of facilitation experience. Of course, the downside is that it's sometimes challenging to facilitate other experienced facilitators! We sometimes slip into meta-discussions about how we should do stuff, rather than just doing it :)
+> We're lucky in that many members work as coaches and have lots of facilitation experience. Of course, the downside is that it's sometimes challenging to facilitate other experienced facilitators! We sometimes slip into meta-discussions about how we should do stuff, rather than just doing it :)
 
 Sometimes we bring an external guest to do a talk or facilitate some specific topic in the conference.
 
