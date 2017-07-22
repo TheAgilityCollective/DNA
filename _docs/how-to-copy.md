@@ -7,24 +7,24 @@ next_section:
 How to clone the Crisp DNA
 ==========================
 
-The Crisp DNA is [open-source on github](https://github.com/crispab/crisp-dna), so you are welcome to copy it and create something similar.
+The DNA of The Agility Collective is based on the Crip model, which is [open-source on github](https://github.com/crispab/crisp-dna), so you are welcome to copy it and roll your own.
 
 Why clone the Crisp DNA?
 ------------------------
 
 Perhaps you are an independent consultant and want to start some kind of collaboration with others. You don't want to run it as a traditional consulting company, and yet you don't want to invent a model from scratch. In that case you can start from our model and modify it to fit your needs.
 
-Although we happen to work as IT consultants, there is nothing in our model that is specific to the IT consulting business.
+Although we happen to work as Management consultants, there is nothing in our model that is specific to the consulting business.
 
 What's the licensing model?
 ---------------------------
 
 The Crisp DNA is licensed under [Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/). This means you are welcome to edit the text anyway you wish, even for commercial purposes, as long as you attribute the original text to us, and keep the license, so that others can fork off of your ingenious changes. But go read the license, it is well worth the effort!
 
-Can I call my company Crisp?
+Can I call my company The Agility Collective?
 ----------------------------
 
-Please don't. We can't legally stop you from calling your organization Crisp, but we prefer that you use a different name. Otherwise people may think there is some kind of relationship between our companies. If you pick a different name, our brands can evolve independently.
+Please don't. We can't legally stop you from calling your organization doing that, but we prefer that you use a different name. Otherwise people may think there is some kind of relationship between our companies. If you pick a different name, our brands can evolve independently.
 
 How do I create my own copy of the Crisp DNA site?
 --------------------------------------------------
