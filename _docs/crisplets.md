@@ -9,16 +9,16 @@ Crisplets
 
 How do bottom-up initiatives get funded? How do you get money to do something without a budget process?
 
-Answer: If you want something that needs funding, form a Crisplet. That is, find others that want the same thing and are willing to pay for it with their own money. Crisp can foot the bill initially.
+Answer: If you want something that needs funding, form a Crisplet. That is, find others that want the same thing and are willing to pay for it with their own money. The Collective can foot the bill initially.
 
 What is a Crisplet?
 -------------------
 
-A Crisplet is a loosely coupled interest group of Crispers who want to co-fund an initiative. Perfect for situations where we don't really need everyone at Crisp involved.
+A Crisplet is a loosely coupled interest group of members who want to co-fund an initiative. Perfect for situations where we don't really need everyone at the collective involved.
 
 > We used to have a more traditional budget process and debate about things like how much Crisp should spend on what. Lots of spreadsheets, discussions, compromises, and not very effective. After a while we got fed up with the whole idea of a centralized budgeting process and abandoned it in favor of something more like [beyond budgeting](http://www.slideshare.net/Lewitz/bjarte-bogsnes-about-beyond-budgeting-at-ale2011). We decided to just keep the fees as low as possible, give the [office team](office-team.html) and [board](board.html) full freedom to manage the bank account continuously without any up-front budgeting process. And as for additional projects and expenses: let people group up and spend their money on whatever they want, no need for consensus from all of Crisp. Saves **a lot** of time!
 
-In some cases it does make sense for Crisp as a whole to fund an initiative, for example a redesign of our website. For smaller initiatives the office team or board can just go ahead and do it. For larger initiatives we may go for a [consensus decision](decisions.html) at our next [unconference](unconference.html).
+In some cases it does make sense for the collective as a whole to fund an initiative, for example a redesign of our website. For smaller initiatives the office team or board can just go ahead and do it. For larger initiatives we may go for a [consensus decision](decisions.html) at our next [unconference](unconference.html).
 
 But when in doubt (or if in a hurry), go for opt-in and just form a Crisplet. Because it's just so much easier. We may of course decide later this cost should be Crisp-global, and in that case simply close the Crisplet.
 
