@@ -7,7 +7,7 @@ next_section: economic-model.html
 Ownership model
 ===============
 
-The Agility Colletve is a limited libility company). This means there are shares, and someone has to own them.
+The Agility Colletve is a limited libility company. This means there are shares, and someone has to own them.
 
 So who owns us? How are new owners brought in? What does ownership mean?
 
