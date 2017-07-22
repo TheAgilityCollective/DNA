@@ -16,7 +16,7 @@ Here are some things we do to keep learning:
 
 -   Our bi-yearly [unconference](unconference.html)
 -   [Hack Summit](hack-summit.html) - two days off site, relaxing and geeking out together
--   Meetups - We encourage members to activly participate in Meetups eiter arranged by the Collective or individual members
+-   Meetups - We encourage members to activly participate in Meetups either arranged by the Collective or by individual members
 -   GDWU - Get Drunk With Us - a pub night that happens from time to time
 -   Invite our favorite gurus and rock stars to come in and teach courses or co-train with us
 -   Peer-coaching workshops, where the agile coaches meet to help each other solve problems
