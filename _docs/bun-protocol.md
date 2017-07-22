@@ -7,14 +7,12 @@ next_section: dashboard.html
 The Bun Protocol
 ================
 
-The Bun protocol ("Bullprotokollet" in Swedish) is a lightweight, decentralized request routing protocol. It is designed to be the simplest possible way to handle requests that are shared by a distributed group of people. We use it mostly to handle incoming client requests.
-
-> We introduced this to Crisp a few years ago because we had just created a lightweight recruitment process, and later when we were creating a lightweight sales process we noticed many similarities. So we did an [extract to interface](http://sourcemaking.com/refactoring/extract-interface) refactoring and created this "Bun Protocol" :o)
+The Bun protocol is a lightweight, decentralized request routing protocol. It is designed to be the simplest possible way to handle requests that are shared by a distributed group of people. We use it mostly to handle incoming client requests.
 
 The metaphor
 ------------
 
-![Sia's Home baked Kanelbulle! Yum!](../assets/Bun.jpg "Sia's Home baked Kanelbulle! Yum!")
+![Siones's Home baked Kanelbulle! Yum!](../assets/Bun.jpg "Siones's Home baked Kanelbulle! Yum!")
 
 When a bun (= issue or request) comes in it is warm, juicy and soft. If it sits around for a day it will get cold. If it sits around several days it will become dry and hard. You can warm up an old bun in the microwave oven as long as it hasn't become too dry.
 
@@ -31,7 +29,7 @@ How the protocol works
 
 A bun is born when someone asks you for something and you decide that "hey, this is a bun". Typically through email, but sometimes a phone call or a conference mingle.
 
-**A bun always has an owner** - the person who received the bun. Or more specifically, the person responsible for the communication channel through which the bun appeared. For example, you are of course responsible for any emails sent directly to you, while the [office team](office-team.html) is responsible for requests to info@crisp.se, etc.
+**A bun always has an owner** - the person who received the bun. Or more specifically, the person responsible for the communication channel through which the bun appeared. For example, you are of course responsible for any emails sent directly to you, while the [office team](office-team.html) is responsible for requests to office@theagilitycollective.com, etc.
 
 **When you have a bun, you are responsible for taking care of it before it gets too dry!** Preferably within 1 working day, definitely within 2.
 
@@ -61,9 +59,9 @@ We don't always succeed in following these rules, especially the 1-2 day age lim
 Why it works
 ------------
 
-We've used the protocol for many years and it works really well. Here are some reasons:
+The bun protocol has been used for many years and it works really well. Here are some reasons:
 
--   **Nice metaphor** - buns are good :o)
+-   **Nice metaphor** - buns are good
 -   **Simple**, anybody can learn it in 5 minutes.
 -   **Can be extended** as needed. New rules can be added, tool support can be added. But don't. Keep it simple and add stuff only if you really, really need it.
 -   **Doesn't require any specific artifacts** or documents that need to be maintained (unless you add that layer yourself...).
