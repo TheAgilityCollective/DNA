@@ -11,7 +11,7 @@ Conflict is inevitable in any organization because, well, Humans :)
 
 The way we deal with conflict is really important - some conflicts are healthy and productive and drive improvement - other conflicts are ugly and political and suck the soul out of the culture. We obviously want more of the former and less of the latter!
 
-Conflict handling gets a bit tricky with organizations like Crisp, with everything bottom-up and no managers. We've done pretty OK so far, but we want to get better.
+Conflict handling gets a bit tricky with organizations like the collective, with everything bottom-up and no managers. 
 
 Inspired by the book [Reinventing Organizations](http://www.reinventingorganizations.com), we've learned that self-organization at scale really needs an explicit conflict handling strategy, a simple process that everyone needs to be bought into.
 
@@ -28,7 +28,7 @@ Our conflict handling process
 
 *... if the conflict didn't get solved:*
 
-**Step 3:** Moose-head meeting at Crisp ASAP with the involved parties.
+**Step 3:** Moose-head meeting at the collective 'HQ' ASAP with the involved parties.
 
 Gravel? Moose head? Huh?
 ------------------------
