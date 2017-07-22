@@ -1,6 +1,6 @@
 ---
 title: The Agility Collective DNA (our operating model)
-next_section: what-is-crisp.html
+next_section: what-is-theagilitycollective.html
 ---
 
 What is this?
