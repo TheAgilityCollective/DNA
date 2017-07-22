@@ -39,8 +39,8 @@ Driving principles
 
 (these principles drive almost everything at Crisp)
 
--   [What is The agility collective](what-is-theagilitycollective.html) - the purpose of the company
--   [How Crisp works](how-theagilitycollective-works.html) - summary of our model, and some driving principles.
+-   [What is The Agility Collective](what-is-theagilitycollective.html) - the purpose of the company
+-   [How we work](how-theagilitycollective-works.html) - summary of our model, and some driving principles.
 -   [Why this works](why-this-works.html) - why this model has served us so well
 
 Core structure and practices
