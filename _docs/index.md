@@ -1,23 +1,25 @@
 ---
-title: Crisp DNA
+title: The Agility Collective DNA (our operating model)
 next_section: what-is-crisp.html
 ---
 
 What is this?
 =============
 
-This site is an [open-source](http://en.wikipedia.org/wiki/Open_source) site describing how Crisp works and why.
+This site describes our operating model. It describes how we work and why. This operating model is based on the crisp DNA forked on github and [open-source](http://en.wikipedia.org/wiki/Open_source).
 
-[Crisp](https://www.crisp.se) is a consulting company based in Stockholm, Sweden. But we aren't a very typical consulting company. For example:
+This document 
 
--   None of the 35+ consultants are actually employed by {{ site.company_name }} (although we do have a few employed office staff).
--   We have no managers, not even a CEO. Instead we rely on self-organization and transparency. Almost everything is bottom-up, and [anyone can drive any decision](decisions.html).
--   Crisp's main purpose is to enable consultants to be happy, and [Crisp Happiness Index](happiness-index.html) is our driving metric. Strong revenue and delighted customers are a side effect, not a goal.
--   Crisp doesn't want to earn money from it's consultants. It is in practice a non-profit company (although not formally so). Consultants [keep most of what they earn](economic-model.html).
+[The Agility Collective](http://theagilitycollective.com) is a consulting company based operating in Australia and New Zealand. We aren't a very typical consulting company. For example:
+
+-   None of the consultants are actually employed by {{ site.company_name }}.
+-   We have no managers, or even a CEO. Instead we rely on self-organization and transparency. Almost everything is bottom-up, and [anyone can drive any decision](decisions.html).
+-   Our main purpose is to enable consultants to be happy, and [our Happiness Index](happiness-index.html) is our driving metric. Strong revenue and delighted customers are a side effect, not a goal.
+-   The Collective doesn't want to earn money from it's consultants. It is in practice a non-profit company (although not formally so). Consultants [keep most of what they earn](economic-model.html).
 -   Our [ownership model](ownership-model.html) is designed to keep our stock financially worthless. There is no incentive to "cash in".
--   Consultants are 100% autonomous. They can do whatever they want (as long as they don't hurt the brand or [our house](what-is-crisp.html)), and work as much or as little as they want.
+-   Consultants are 100% autonomous. They can do whatever they want (as long as they don't hurt the brand or [our house](what-is-theagilitycollective.html)), and work as much or as little as they want.
 
-We get a lot of questions about how this works in practice, especially from other consultants looking to create something similar. After many years of experimenting we've converged on a model that works well, basically the sweet spot between being an independent consultant and being an employee. So we decided to [open source](http://en.wikipedia.org/wiki/Open_source) it.
+[Crisp](http://crisp.se) got a lot of questions about how this works, especially from other consultants looking to create something similar. After many years of experimenting they converged on a model that works well, basically the sweet spot between being an independent consultant and being an employee. They decided to [open source](http://en.wikipedia.org/wiki/Open_source) it ...and we decided to adopt it.
 
 Want to start a similar org? See [How to clone the Crisp DNA](how-to-copy.html).
 
@@ -37,8 +39,8 @@ Driving principles
 
 (these principles drive almost everything at Crisp)
 
--   [What is Crisp](what-is-crisp.html) - the purpose of the company
--   [How Crisp works](how-crisp-works.html) - summary of our model, and some driving principles.
+-   [What is The agility collective](what-is-theagilitycollective.html) - the purpose of the company
+-   [How Crisp works](how-theagilitycollective-works.html) - summary of our model, and some driving principles.
 -   [Why this works](why-this-works.html) - why this model has served us so well
 
 Core structure and practices
