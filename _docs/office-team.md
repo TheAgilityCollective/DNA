@@ -7,7 +7,7 @@ next_section: board.html
 Office team
 ===========
 
-We have an office team of 1 part-time employees that is based in our office in Wellington, plus some extra staff that are pulled in when needed. The office team does most of the non-consulting work needed to run the day to day operations.
+We have an office team of 1 part-timer based in Wellington, plus some extra staff that are pulled in when needed. The office team does most of the non-consulting work needed to run the day to day operations.
 
 Things like:
 
