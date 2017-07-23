@@ -11,7 +11,7 @@ What do we measure?
 We measure:
 
 -   How happy we are (see [Happiness Index](happiness-index.html))
--   How happy our customers are. 
+-   How happy our customers are
 
 How do we finance the home?
 ---------------------------
