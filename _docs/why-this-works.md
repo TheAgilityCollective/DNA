@@ -5,12 +5,12 @@ prev_section: how-theagilitycollective-works.html
 next_section: happiness-index.html
 ---
 
-Why this model works (for us)
+Why this model works
 =============================
 
-After years of experimenting, Crisp has evolved a model that works really well! It is not ironic, that many people working in the business agility and Agile space, are attracted to this form of business model. It fits perfectly the collective ethos.
+After years of experimenting, many organisations like Crisp have evolved a model that works really well for them! This works for us because we can learn and build on the experience of others, to quickly build a our business which has focus on important things, like our clients needs ...insteat of our own. Building a business, or rather the operational model required for growth, is a huge overhead, and failure to get it right (including the time spent on it ..and squabbling with stakeholders, instead o focusing on customers) is probably the reason why many bussinesses fail quickly. 
 
-But why? Why is this working for Crisp? Here is their guess, illustrated using a [cause-effect diagram](http://blog.crisp.se/2009/09/29/henrikkniberg/1254176460000):
+BWhy does this work for others? Here is their guess, illustrated using a [cause-effect diagram](http://blog.crisp.se/2009/09/29/henrikkniberg/1254176460000):
 
 ![WhyItWorks](../assets/WhyItWorks.png "WhyItWorks")
 
