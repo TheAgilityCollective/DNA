@@ -35,4 +35,6 @@ How we **communicate with the outside world**:
 -   A mailing list for our customers and course participants, we send information about upcoming courses about once or twice per quarter.
 -   Twitter - our twitter handle is [@123agility](https://twitter.com/123agility/)
 -   [Linkedin](https://www.linkedin.com/company-beta/18158595/)
+-   Through speaking and workshops at confrences and events
+-   At local (public) meet-ups
 -   ... but the biggest channel of communication is of course the personal and informal channels - our members own tweeting, blogging, and talking to friends and customers. Together we have a huge network!
