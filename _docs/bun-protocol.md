@@ -7,21 +7,21 @@ next_section: dashboard.html
 The Bun Protocol
 ================
 
-The Bun protocol is a lightweight, decentralized request routing protocol. It is designed to be the simplest possible way to handle requests that are shared by a distributed group of people. We use it mostly to handle incoming client requests.
+The Bun protocol is a lightweight, decentralized 'request routing protocol'. It is designed to be the simplest possible way to handle requests that are shared by a distributed group of people. We use it mostly to handle incoming client requests.
 
 The metaphor
 ------------
 
 ![Siones's Home baked Kanelbulle! Yum!](../assets/Bun.jpg "Siones's Home baked Kanelbulle! Yum!")
 
-When a bun (= issue or request) comes in it is warm, juicy and soft. If it sits around for a day it will get cold. If it sits around several days it will become dry and hard. You can warm up an old bun in the microwave oven as long as it hasn't become too dry.
+When a bun (= issue or request) comes in it is warm, juicy and soft. If it sits around for a day it will get cold. If it sits around several days it will become dry and hard. You can warm up an old bun in the microwave as long as it hasn't become too dry.
 
 So, a bun should be eaten fairly quickly or thrown away. No use stuffing it in a box. If you can't eat it yourself, offer it to someone else - before it gets cold, dry and hard!
 
 Sample buns
 -----------
 
--   You get an email "Hi, we want a TDD course at company X. What will it cost and when can you come?". Now you have a bun!
+-   You get an email "Hi, we want a Leadership course at company X. What will it cost and when can you come?". Now you have a bun!
 -   You meet someone at conference who says "I want to join your company!". Now you have a bun!
 
 How the protocol works
