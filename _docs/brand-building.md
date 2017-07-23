@@ -10,8 +10,8 @@ Brand building
 
 As a consulting company, building a strong brand requires two things:
 
-1.  Delight your clients
-2.  Be visible
+1.  Delighting our clients
+2.  Being visible
 
 Both are needed. If we **only** delight our clients, but aren't visible to the world, then the brand won't get strong (except to those few that already know about us). If we are highly visible but *not* delighting our clients, then the brand won't get strong either. Well, OK, there are companies that can pull off that trick, but it's not our style...
 
