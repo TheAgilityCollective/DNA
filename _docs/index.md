@@ -6,11 +6,9 @@ next_section: what-is-theagilitycollective.html
 What is this?
 =============
 
-This site describes our operating model. It describes how we work and why. This operating model is based on the crisp DNA forked on github and [open-source](http://en.wikipedia.org/wiki/Open_source).
+This site describes our operating model. It describes how we work and why. This operating model is based on the [open-source](http://en.wikipedia.org/wiki/Open_source) Crisp DNA forked on github. 
 
-This document 
-
-[The Agility Collective](http://theagilitycollective.com) is a consulting company based operating in Australia and New Zealand. We aren't a very typical consulting company. For example:
+[The Agility Collective](http://theagilitycollective.com) is a consulting company operating in Australia and New Zealand. We aren't a very typical consulting company. For example:
 
 -   None of the consultants are actually employed by {{ site.company_name }}.
 -   We have no managers, or even a CEO. Instead we rely on self-organization and transparency. Almost everything is bottom-up, and [anyone can drive any decision](decisions.html).
@@ -19,17 +17,6 @@ This document
 -   Our [ownership model](ownership-model.html) is designed to keep our stock financially worthless. There is no incentive to "cash in".
 -   Consultants are 100% autonomous. They can do whatever they want (as long as they don't hurt the brand or [our house](what-is-theagilitycollective.html)), and work as much or as little as they want.
 
-[Crisp](http://crisp.se) got a lot of questions about how this works, especially from other consultants looking to create something similar. After many years of experimenting they converged on a model that works well, basically the sweet spot between being an independent consultant and being an employee. They decided to [open source](http://en.wikipedia.org/wiki/Open_source) it ...and we decided to adopt it.
-
-Want to start a similar org? See [How to clone the Crisp DNA](how-to-copy.html).
-
-Why open-source the Crisp DNA?
-------------------------------
-
--   To make the world a better place! The model has helped us be happy and make a positive impact in the world, and publishing it may help others do the same.
--   Open-sourcing it is a fun social experiment, we're curious about what's going to happen :o)
--   By making our model public, we're more likely to keep it up-to-date and improve it as we learn.
--   Putting it on GitHub makes it easier for others to clone and evolve the model, and we can learn from that.
 
 Contents
 ========
@@ -37,7 +24,7 @@ Contents
 Driving principles
 ------------------
 
-(these principles drive almost everything at Crisp)
+(these principles drive almost everything at the Collective)
 
 -   [What is The Agility Collective](what-is-theagilitycollective.html) - the purpose of the company
 -   [How we work](how-theagilitycollective-works.html) - summary of our model, and some driving principles.
@@ -78,8 +65,3 @@ Supporting practices
 -   [Building competence](building-competence.html) - how we learn from each other and improve
 -   [Courses and event production](courses-and-event-production.html) - how do courses and events get produced?
 -   [Brand building](brand-building.html) - how do we build the brand, both Crisp and personal brands?
-
-Meta
-----
-
--   [How to clone the Crisp DNA](how-to-copy.html)
