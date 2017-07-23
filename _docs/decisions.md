@@ -9,12 +9,12 @@ How we make decisions
 
 How do we make decisions in a decentralized organization with no managers?
 
-Note – for allocation of consultants to client engagements we have a specific protocol for that – the [bun protocol](bun-protocol.html). Similar for recruitment decisions.
+Note – for allocation of consultants to client engagements we have a specific protocol – the [bun protocol](bun-protocol.html). Similar for recruitment decisions.
 
 Why don’t we have a well defined decision-making process?
 ---------------------------------------------------------
 
-We make lots of decisions all the time. Which type of coffee machine to buy? Should our internal fees be raised? Where & when is our next 'collective' unconference? Which partners should we invite?
+We make lots of decisions all the time. Which type of coffee machine to buy? Should our internal fees be raised? Where & when is our next unconference? Which partners should we invite?
 
 Different types of decisions need a different process. It would be crazy to involve the whole team in decisions like which type of whiteboard pens to buy. And it would be crazy to NOT involve the whole team if we needed to move our office to a new location.
 
@@ -34,10 +34,7 @@ Instead, we follow these principles/guidelines:
 
 **Example:** If the board is considering to raise the team fee, the board drives that question, and therefore gets to pick the decision process.
 
-**Example:** If I want 'the collective' to collaborate with company X, then I’m the one driving that question and I pick the decision process.
-
-> **Meta:** So how did we decide on this decision-making process?
-> Henrik from Crisp: "Well, we didn’t. I just noticed that people sometimes ask 'so how do we make decisions' and I started thinking about how it appeared to work, and wrote a wiki page describing it. Then I had a followup meeting to check if this is how we really work, and if this is how we want to continue working, and the answer was pretty much Yes on both counts."
+**Example:** If I want the Collective to collaborate with company X, then I’m the one driving that question and I pick the decision process.
 
 How do I pick a decision process?
 ---------------------------------
@@ -62,13 +59,13 @@ Some things to consider when choosing a decisions process:
 -   **Is the decision reversible?** Most decisions are. What is the consequence of making the “wrong” decision, and who is affected by that?
 -   **How easy or hard is the decision?** How easy is it to reach consensus with all people affected?
 -   **How urgent is the decision?** What is the consequence of delaying the decision, or not making a decision at all?
--   **Who are you?** The decision process may vary depending on your perspective – consultant, board member, office admin, etc. May also depend on how long you’ve been at Crisp (if you are new and unsure you might need to seek more anchoring from people).
--   **Is the outcome affected by laws?** The board of directors in a Swedish company is bound by Swedish laws, so some decisions must be aligned with the board of directors.
+-   **Who are you?** The decision process may vary depending on your perspective – consultant, board member, office admin, etc. May also depend on how long you’ve been at the Collective (if you are new and unsure you might need to seek more anchoring from people).
+-   **Is the outcome affected by law?** The board of directors is bound by law, so some decisions must be aligned with the board of directors.
 
 Sample decisions:
 
 -   “Should I arrange a free seminar with Linda Atkins” =&gt; **Own decision**. Just do it.
--   “Which color should we have on the 'collective's' coffee cup?” =&gt; **Own decision with team input**.
+-   “Which color should we have on the Collective's coffee cup?” =&gt; **Own decision with team input**.
 -   “How often should we unconferences?” =&gt; **Own decision with team anchoring**.
 -   “Should we divided the company into two business units?” =&gt; **Team decision**.
 
@@ -83,7 +80,7 @@ Here are some options:
 
 -   **Take a chance!** “Better to ask for forgiveness than permission”. Most decisions are reversible, so you don’t really need to be afraid of making the “wrong” decision or using the “wrong” decision process. Just accept feedback and learn.
 -   **Talk to a colleague at the 'collective'**, for example someone who has been around longer and can give examples of what has worked in the past.
--   **Check if someone else can drive** the question for you (or with you). Preferably someone who is strongly engaged in the question. For example if I want next unconference to be in the Manhattan I’d involve the [office team](office-team.html), since they usually arrange our unconferences. It’s nice to pair-drive a decision, so you can always ask on the team mailing list to find a co-driver.
+-   **Check if someone else can drive** the question for you (or with you). Preferably someone who is strongly engaged in the question. For example if I want next unconference to be in Manhattan, I’d involve the [office team](office-team.html), since they usually arrange our unconferences. It’s nice to pair-drive a decision, so you can always ask on the team mailing list to find a co-driver.
 -   **Escalate the decision** to the [board of directors](board.html). For example “hey board, I want to change our recruiting process, how would we make a decision like that?”. We try to minimize the number of decisions that have to be made by the board, but they can give useful input about who needs to be involved.
 
 Our [unconferences](unconference.html) and similar gatherings are a great place to discuss a decision process – and in many cases make the actual decision as well, since everyone is there :)
