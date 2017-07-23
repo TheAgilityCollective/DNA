@@ -6,7 +6,7 @@ next_section: what-is-theagilitycollective.html
 What is this?
 =============
 
-This site describes our operating model. It describes how we work and why. This operating model is based on the [open-source](http://en.wikipedia.org/wiki/Open_source) Crisp DNA forked on github. 
+This site describes our operating model ...the how we work, and why. This model is based on the [open-source](http://en.wikipedia.org/wiki/Open_source) Crisp DNA, forked on github. 
 
 [The Agility Collective](http://theagilitycollective.com) is a consulting company operating in Australia and New Zealand. We aren't a very typical consulting company. For example:
 
