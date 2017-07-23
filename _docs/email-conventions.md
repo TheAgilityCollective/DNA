@@ -15,64 +15,62 @@ By default, reading team mail is optional. The only "must-reads" are the ones wi
 
 > We've had this convention for many years and it works great, because it has an subtle but important impact on how we communicate. Normally, a mailing list forces the *receiver* to decide what's important to read or not. Now we shift that responsibility to the *sender*. Think about it: every email on the team list involves *one sender* and *many receivers*, right? So we save a lot of time if we burden the sender rather than the receivers.
 
-OBS = "Read this!"
+RTN = "Read this now!"
 ------------------
 
-> OBS stands for "Observera", the Swedish term for "Hey check this out!"
-
-So OBS is basically an announcement. Everyone should read it, but no response is needed.
+So RTN is basically an announcement. Everyone should read it, but no response is needed.
 
 Examples:
 
--   OBS: Date for next conference
--   OBS: New Crisplet started
+-   RTN: Date for next conference
+-   RTN: New Crisplet started
 
-OSA = "Read and respond!"
+RAR = "Read and respond!"
 -------------------------
 
-> OSA stands for "Om Svar Anhålles". It is the Swedish equivalent of RSVP, which by the way is a French acronoym for "Répondez s'il vous plaît" which literally means "Reply if you please". But we really do want a response (or at least an action) so skip the "if you please" part.
+> It's kind of like RSVP, which by the way is a French acronoym for "Répondez s'il vous plaît" which literally means "Reply if you please". But we really do want a response (or at least an action) so skip the "if you please" part.
 
 Examples:
 
--   OSA: Let's update the happiness index!
--   OSA: Printing new business cards. Who needs?
+-   RAR: Let's update the happiness index!
+-   RAR: Printing new business cards. Who needs?
 
-Sometimes an OSA has a deadline:
+Sometimes an RAR has a deadline:
 
--   OSA 12 Sep: Sign the updated team contract
+-   RAR 12 Sep: Sign the updated team contract
 
-BULLE = "Heads up, here's a bun!"
+BUN = "Heads up, here's a bun!"
 ---------------------------------
 
-> Bulle means Bun in Swedish. We use the [Bun Protocol](bun-protocol.html) to route client requests.
+> We use the [Bun Protocol](bun-protocol.html) to route client requests.
 
-These emails are optional, they are mostly for people looking for a new gig. Anyone who gets a client request that they can't take themselves will usually send a BULLE email. The BULLE prefix means we are applying the [Bun Protocol](bun-protocol.html), so we try to be really clear and write things like "I'm taking this bun".
+These emails are optional, they are mostly for people looking for a new gig. Anyone who gets a client request that they can't take themselves will usually send a BUN email. The BUN prefix means we are applying the [Bun Protocol](bun-protocol.html), so we try to be really clear and write things like "I'm taking this bun".
 
 Examples:
 
--   BULLE: Lean training @ Ericsson
--   BULLE: Java developer for company X
+-   BUN: Lean training @ ANZ
+-   BUN: Agile Coach needed for company X
 
-Another variant of this is DEG (= dough in Swedish). That means the email contains a lead that might turn into a bun, for example if someone heard a client mention that they may need another consultant.
+Another variant of this is DOU (= dough). That means the email contains a lead that might turn into a bun, for example if someone heard a client mention that they may need another consultant.
 
--   DEG: Company Y may need coaching
+-   DOU: Company Y may need coaching
 
 Email filtering
 ---------------
 
 The subject line conventions above make it really easy to create email filters to separate out the unimportant stuff. Gmail example:
 
-    to:team@crisp.se -firstname.lastname@crisp.se
-    subject:-OSA -OBS -BULLE
+    to:team@theagilitycollective.com -firstname.lastname@theagilitycollective.com
+    subject:-RTN -RAR -BUN
 
-The filter will identify any email that is sent to the team list, and not directly to me, and doesn't have OBS/OSA/BULLE in the Subject. For these emails, configure Gmail to skip the Inbox and apply the label "crisp". That way you could respond quickly to OBS/OSA/BULLE and then cherry-pick among the other emails at your leisure.
+The filter will identify any email that is sent to the team list, and not directly to me, and doesn't have RTN/RAR/BUN in the Subject. For these emails, configure Gmail to skip the Inbox and apply the label "Collective". That way you could respond quickly to RTN/RAR/BUN and then cherry-pick among the other emails at your leisure.
 
-Some do this, while others skip the filter and read all team email. It's up to each individual. The important thing is that everyone knows that you can't expect everyone to read your email unless you write OBS or OSA.
+It's up to each individual. The important thing is that everyone knows that you can't expect everyone to read your email unless you write RTN or RAR.
 
 Keep long discussions off the list
 ----------------------------------
 
-Since late 2014 we're using [Slack](http://www.slack.com), which has taken some pressure off the team list. Often a conversation starts on Gmail, and then when it gets chatty someone suggests that we continue the conversation on Slack, so people who are interested can opt in.
+For these use [Slack](http://www.slack.com). Often a conversation starts on email, and then when it gets chatty someone suggests that we continue the conversation on Slack, so people who are interested can opt in.
 
 Keep conflicts and sensitive stuff off the list
 -----------------------------------------------
@@ -83,17 +81,15 @@ Better to meet and talk, or call each other, or at the very least have a direct 
 
 So if an email conversation starts turning ugly, the involved people will usually notice and take it off the list.
 
-> Once upon a time we had a big problem with sour discussions polluting the email list. For example a heated argument between X and Y. Interestingly enough, X and Y were usually fine with it (they were, in their minds, having a healthy debate) - but *other Crispers* found it depressing to see all these long heated debates going on. We brought it up several times at conferences, and finally we decided to add a new email convention: STOP. Anyone who feels that an email thread is getting ugly can respond with the single word: STOP. After that, the thread is considered dead - no one is allowed to send anything on that thread. It's up to the interested parties to contact each other directly. We were pretty proud of this simple rule. The interesting thing, however, is that *nobody ever used it*! (well OK, maybe once per year or so). Just having the convention was enough to remind people to think twice before sending an email that may come across as nasty. So the problem kind of solved itself.
-
 We don't mind conflict and debate. It's just that email (especially the team list) is a lousy forum for it.
 
 Other informal email conventions
 --------------------------------
 
-These additional subject prefixes are used from time to time. Not because we decided to, but because people simply started using them and they've stuck around.
+These additional subject prefixes can be used from time to time. 
 
--   **SKRYT** (boast): "I'm proud of something and want to boast a bit!". If you're proud of something, why not sing it out loud and get some pats on the back!
+-   **WOP** (boast): "I'm proud of something and want to boast a bit!". If you're proud of something, why not sing it out loud and get some pats on the back!
 -   **OFFTOPIC**: "This doesn't really have anything to do with Crisp, but what the heck..."
--   **KORRLÄS** (proofread): "Please proofread my article & help me improve it"
+-   **PROF** (proofread): "Please proofread my article & help me improve it"
 -   **DAGBOK** (diary): "Here's what's going on in my life right now". Always interesting to read!
--   **HJÄLP** (help): "I need help!"
+-   **HELP** (help): "I need help!"
