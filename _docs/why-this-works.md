@@ -8,9 +8,9 @@ next_section: happiness-index.html
 Why this model works
 =============================
 
-After years of experimenting, many organisations like Crisp have evolved a model that works really well for them! This works for us because we can learn and build on the experience of others, to quickly build a our business which has focus on important things, like our clients needs ...insteat of our own. Building a business, or rather the operational model required for growth, is a huge overhead, and failure to get it right (including the time spent on it ..and squabbling with stakeholders, instead o focusing on customers) is probably the reason why many bussinesses fail quickly. 
+After years of experimenting, many organisations like Crisp have evolved a model that works really well for them! This works for us because we can learn and build on the experience of others, and quickly build a  business which has focus on important things, like customers! ...insteat of our own. Building a business, or rather an operational model required for growth, is a huge overhead. Failure to get it right (i.e. the time spent on it ..and squabbling with stakeholders, instead o focusing on customers) is probably the reason why many bussinesses fail quickly. 
 
-BWhy does this work for others? Here is their guess, illustrated using a [cause-effect diagram](http://blog.crisp.se/2009/09/29/henrikkniberg/1254176460000):
+Why does this work for others? Here is their guess, illustrated using Crisps [cause-effect diagram](http://blog.crisp.se/2009/09/29/henrikkniberg/1254176460000):
 
 ![WhyItWorks](../assets/WhyItWorks.png "WhyItWorks")
 
