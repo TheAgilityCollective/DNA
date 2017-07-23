@@ -20,8 +20,7 @@ Also, there are some [industries that we avoid](industries-that-we-avoid.html).
 
 Different "species" of consultant personalities
 -------------------------------
-
-We sometimes use a funny animal metaphor to talk about different types of engagements. Most of us fall into one of these categories (although it can change over time). 
+We love this metaphor that the folk at Crisp that uses a funny animal metaphor to talk about different types of engagements. Most of us fall into one of these categories (although it can change over time). 
 
 Seal consultants
 ----------------
