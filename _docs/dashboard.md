@@ -9,8 +9,6 @@ The Dashboard
 
 The dashboard is an internal shared google spreadsheet containing our most vital shared information. 
 
-Here's a [Collectives Dashboard template & example](https://drive.google.com/open?id=1_T5fkUrKJ8lxW0OFVNJ-Z24vkvS6pHpZ8rgBtMTLF6E) on a google doc on google Drive.
-
 The dashboard contains:
 
 -   **Happiness index** - how happy are we and why?
