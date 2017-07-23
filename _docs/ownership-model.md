@@ -19,8 +19,7 @@ Now you might thinking "Huh, so *anyone* is allowed to become a partner? Really?
 
 Exactly! The idea is that, if we wouldn't trust someone to co-own the company, why would we trust them to represent the Collective at all? So if, after two years, we don't trust a member enough to offer them ownership, that's a sign they shouldn't be at here at all. 
 
-
-So, every year around July we send an invite to all non-owners who have been around for at least 2 years, and ask them if they want to become owners.
+So, every year around July we will send an invite to all non-owners who have been around for at least 2 years, and ask them if they want to become owners.
 
 What does ownership cost?
 -------------------------
@@ -29,11 +28,11 @@ We strive to minimize the financial value of the company. I know, that's the opp
 
 > We've all seen consulting companies that work like pyramid schemes - where old-timers are like fat cats parasiting from the hard work of newcomers. That's exactly what we **don't** want to be.
 
-So our shares are pretty fixed at the lowest possible price that allowed under regulatory compliance. 
+So our shares are pretty fixed at the lowest possible price allowed under regulatory compliance. 
 
-When you become an owner (which is entirely optional), you buy stock at that low price. You will have the exact same amount of stock as the other owners. And if/when you leave Crisp, you must sell your stock back at basically the same price. For details, see [contracts](contracts.html).
+When you become an owner (which is entirely optional), you buy shares at that low price. You will have the exact same amount of shares as the other owners. And if/when you leave Crisp, you must sell your stock back at basically the same price. For details, see [contracts](contracts.html).
 
-This means there is no financial incentive to own stocks, no cashing out.
+This means there is no financial incentive to own shares, no cashing out.
 
 What does ownership actually mean?
 ----------------------------------
