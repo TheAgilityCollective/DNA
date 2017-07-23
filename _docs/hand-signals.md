@@ -69,7 +69,7 @@ This means I understand the proposal, but I don't support it. Obviously I need t
 
 Not all decisions affect everyone, so the fist-forward signal essentially gives the rest of the group permission to decide without me.
 
-> In the past we used to have just 3 signals: thumb-up, thumb-sideways, thumb-down. It worked, but we realized that thumb-sideways was a bit ambiguous. We introduced the fist-forward signal too visually distinguish between "I need more info" vs "I don't care about this". The thumb-sideways people need to be heard, the fist-forward people don't. For the full story behind this shift, see the blog post [Crisp consensus model 2.1](http://blog.crisp.se/2014/03/27/peterantman/crisp-consensus-model-2-1). And then, a few years later, we realized that thumb-sideways is redundant (because it really means the same as hand-up), so we removed it.
+If just using 3 signals: the thumb-up, thumb-sideways, thumb-down ...can worked, but the thumb-sideways is a bit ambiguous. The fist-forward signal visually distinguish between "I need more info" vs "I don't care about this". The thumb-sideways people need to be heard, the fist-forward people don't. 
 
 How a big-group decision is made using hand signals
 ---------------------------------------------------
