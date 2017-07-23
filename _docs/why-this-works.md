@@ -13,7 +13,7 @@ After years of experimenting, several organisations like Crisp have developed an
 - This allows us to learn and build on the experience of others, to quickly build a business which has focus on the important things ...like servicing our customers! rather than expending huge energy servicing internal needs. 
 - Building a sucessful operational model is a huge overhead and can take years to get right. Failure to get it right is probably the main reason many startup bussinesses fail quickly. 
 
-Here is Crisps discription of why this works [cause-effect diagram](http://blog.crisp.se/2009/09/29/henrikkniberg/1254176460000):
+Here is Crisps discription of why this works in this cause-effect diagram.
 
 ![WhyItWorks](../assets/WhyItWorks.png "WhyItWorks")
 
