@@ -61,7 +61,7 @@ Anglerfish consultants
 
 [![Anglerfish consultant](../assets/anglerfish-500.jpg "Anglerfish consultant")](https://www.flickr.com/photos/23629083@N03/15377775448/)
 
-Some of us used to be Anglerfish consultants before joining Crisp.
+Some of us used to be Anglerfish consultants before joining the Collective.
 
 Anglerfish are way down in the dark, lost, wandering aimlessly with nothing but a small artificial light to guide them. Sometimes they are lucky and manage to attract a small fish. As opposed to the Albatross, the Anglerfish can’t see the horizon and doesn’t choose where to go – it just floats around and eats whatever scraps it happens to bump into. The Anglerfish never goes up to the surface to see the big picture or learn something new – in fact, he doesn’t even know the direction to the surface.
 
