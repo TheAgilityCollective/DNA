@@ -13,18 +13,20 @@ Our **main internal communication channels** are:
 -   Pulse meetings (or mini-conferences). These happen about twice per year, in between the unconferences. Typically a half day or whole day with some kind of theme, like "how we make decisions" or "how we handle conflict" or "how we run courses".
 -   Team mailing list - a single mailing list with everyone on it. We use simple [email conventions](email-conventions.html) to separate must-read stuff from general discussions, and the [Bun protocol](bun-protocol.html) to route client inquiries to the right consultant.
 -   [Board meetings](board.html) every month.
+-   [Zoom](http://zoom.com) for regular online video meetings (often between teams) 
 -   [Slack](http://www.slack.com) for chattier stuff.
--   [Signup](https://github.com/crispab/signup) - a homegrown tool used for sending invites and keep track of who is coming to a meetup. We use it for things like keeping track of who is coming to the next unconference.
+-   [Trello](http://trello.com) for collaborating on activities
+
 
 Most decisions are made, and most problems solved, in one of the above forums.
 
-A lot of good communication also happens at our [hack-summit](hack-summit.html), although the purpose is more to geek out together than to communicate :)
+A lot of good communication will happen at our [hack-summit](hack-summit.html), although the purpose is more to geek out together than to communicate :)
 
 Where we **store info**:
 
 -   Google Docs - we used it for almost everything now-a-days. Our main doc is the [dashboard](dashboard.html)
 -   Dropbox - we have a dropbox business account that we used for shared docs that don't fit in google docs.
--   GitHub - a github organization account for shared code and, well, the Crisp DNA that you are reading right now.
+-   GitHub - a github organization account for shared code and, well, the DNA that you are reading right now.
 
 How we **communicate with the outside world**:
 
