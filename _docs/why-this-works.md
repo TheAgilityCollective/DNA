@@ -9,7 +9,7 @@ Why this model works
 =============================
 
 After years of experimenting, several organisations like Crisp have developed and evolved a operational model that works really well for us! ...and it works for a number of reasons. 
-- First, adopting something like this fits our lean thinking and brand. Much like developers, forking code on github, we can do it for our own DNA. 
+- First, adopting something like this fits our lean thinking and brand. Much like developers forking code on github, we can do it for our own DNA. 
 - This allows us to learn and build on the experience of others, to quickly build a business which has focus on the important things ...like servicing our customers! rather than expending huge energy servicing internal needs. 
 - Building a sucessful operational model is a huge overhead and can take years to get right. Failure to get it right is probably the main reason many startup bussinesses fail quickly. 
 
