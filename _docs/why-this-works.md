@@ -8,10 +8,10 @@ next_section: happiness-index.html
 Why this model works
 =============================
 
-After years of experimenting, several organisations like Crisp have experimented and evolved a model that works really well for us! It works for a number of reasons. 
-- First, adopting something like this fits our lean thinking and brand. Much like developers, forking code on github, we can for our operating model. 
-- We can learn and build on the experience of others. This allows us to quickly build a business which has focus on important things ...like customers! rather than focusing all our energy servicing internal needs. 
-- Building a sucessful operational, required for growth, is a huge overhead and can take years to get right. Failure to get it right is probably the reason many startup bussinesses fail quickly. 
+After years of experimenting, several organisations like Crisp have developed and evolved a operational model that works really well for us! ...and it works for a number of reasons. 
+- First, adopting something like this fits our lean thinking and brand. Much like developers, forking code on github, we can do it for our own DNA. 
+- This allows us to learn and build on the experience of others and to quickly build a business which has focus on important things ...like servicing customers! rather than focusing much of our energy servicing internal needs. 
+- Building a sucessful operational model is a huge overhead and can take years to get right. Failure to get it right is probably the main reason many startup bussinesses fail quickly. 
 
 Here is Crisps discription of why this works [cause-effect diagram](http://blog.crisp.se/2009/09/29/henrikkniberg/1254176460000):
 
