@@ -4,12 +4,12 @@ prev_section: bun-protocol.html
 next_section: office-team.html
 ---
 
-Crisp Dashboard
+The Dashboard
 ===============
 
 The dashboard is an internal shared google spreadsheet containing our most vital shared information. 
 
-Here's a [Collectives Dashboard template & example](https://www.dropbox.com/s/dnhgbdpgp7f5d9w/Crisp%20Dashboard%20-%20template%20%26%20example.xlsx?dl=0) on dropbox.
+Here's a [Collectives Dashboard template & example](https://drive.google.com/open?id=1_T5fkUrKJ8lxW0OFVNJ-Z24vkvS6pHpZ8rgBtMTLF6E) on a google doc on google Drive.
 
 The dashboard contains:
 
