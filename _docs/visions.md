@@ -31,8 +31,6 @@ We're guided by these principles (which are reviewed and agreed at the [unconfer
 -   The visions apply between the unconferences.
 -   If you miss an unconference, you are automatically considered to "stand aside" (see our [hand signals](hand-signals.html)).
 
-Here is how we decide on particular missions:
-![How we identified our visions](../assets/Visions.jpg "How we identified our visions")
 
 It is a standing vote, where people can move their avatars to show their stance on each of the suggested vision statements. As discussion happens and the statements are improved, people move their avatars around. Gradually we reach strong consensus on two of them (and perhaps even on a third one).
 
