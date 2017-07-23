@@ -88,8 +88,8 @@ Other informal email conventions
 
 These additional subject prefixes can be used from time to time. 
 
--   **WOP** (boast): "I'm proud of something and want to boast a bit!". If you're proud of something, why not sing it out loud and get some pats on the back!
+-   **WOOP** (boast): "I'm proud of something and want to boast a bit!". If you're proud of something, why not sing it out loud and get some pats on the back!
 -   **OFFTOPIC**: "This doesn't really have anything to do with Crisp, but what the heck..."
 -   **PROF** (proofread): "Please proofread my article & help me improve it"
--   **DAGBOK** (diary): "Here's what's going on in my life right now". Always interesting to read!
+-   **WOTUP** "Here's what's going on in my life right now". Always interesting to read!
 -   **HELP** (help): "I need help!"
