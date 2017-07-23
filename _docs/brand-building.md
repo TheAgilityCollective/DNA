@@ -40,7 +40,7 @@ Again, because our model attracts the kind of people that like to learn and spre
 -   Partnerships with well-known people like [Jeff Sutherland](http://en.wikipedia.org/wiki/Jeff_Sutherland), [Mary Poppendieck](http://www.poppendieck.com/people.htm), [Jeff Patton](http://www.agileproductdesign.com), and many more.
 -   Physical products such as [Planning Poker](https://www.crisp.se/bocker-och-produkter/planning-poker) and [Jimmy Cards](https://www.crisp.se/bocker-och-produkter/jimmy-cards)
 -   [Open Source Software](https://github.com/crispab)
--   ... and, of course this [dna.crisp.se](http://dna.crisp.se) site!
+-   ... and, of course this DNA site!
 
 It's all about co-branding
 --------------------------
