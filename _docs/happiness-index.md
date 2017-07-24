@@ -9,7 +9,7 @@ Happiness Index
 
 Our primary metric is our "Happy Index”. It's the only thing we systemically measure and follow up. Scale is 1-5. The data lives in our [dashboard](dashboard.html) (a shared Google spreadsheet).
 
-There's pretty strong peer pressure for people to update this, but nobody is forced. Remember, one of our [core values](what-is-crisp.html) is freedom, so nobody forces anyone to do anything. But all in all this gives us a great overview of what's working and what needs to be fixed.
+Guilt or peer pressure form colleagues is the main reason for people to update this, because nobody is forced. Remember, one of our [core values](what-is-crisp.html) is freedom, so nobody forces anyone to do anything. But all in all this gives us a great overview of what's working and what needs to be fixed.
 
 > Jeff Sutherland got so excited about using the Happiness metric that he wrote an article called [Happiness Metric - the wave of the future](http://www.scruminc.com/happiness-metric-wave-of-future) and now [teaches webinars](http://www.scruminc.com/happiness_metric/) on it and talks about it all over the world.
 
