@@ -1,5 +1,5 @@
 ---
-title: Shareholder contract, English translation
+title: Shareholder contract
 ---
 
 # This section needs complete revision based on local laws
