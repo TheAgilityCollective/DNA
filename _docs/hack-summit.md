@@ -7,7 +7,7 @@ next_section: crisplets.html
 The Agility Hack Summit
 =================
 
-Our Hack Summit is a 2-day event where we meet up at a off-site location and hack on new, or pet projects.
+Our Hack Summit is a 2-day event where we meet up at a off-site location and hack on new, or pet projects. It's also an oppertunity to invite and include prospective consultants and key clients
 
 Hack Summit gives everyone an opportunity to:
 
