@@ -7,12 +7,12 @@ next_section: visions.html
 Our business
 ============
 
-We are focused on bringing better ways-of-working to our clients. At this time, this better-way is through teaching lean and agile, from leadership and mindset, through to organisational design and engagement. 
+We are focused on bringing better ways-of-working to our clients by advising and teaching lean and agile  ...from leadership and mindset, through to organisational design and engagement. 
 
 We have two main business areas:
 
-1.  **Big picture through: consulting, stratgy and design**. 
-2.  **Agile/Lean coaching and training**. Mostly shorter engagements or part-time.
+1.  **Big picture through: consulting, stratgy, planning and design**. 
+2.  **Hands-on through: Agile/Lean coaching, facilitation and training**. 
 
 That is, most of us happen to spend most our time in one of those two areas. Some have one foot in each though.
 
