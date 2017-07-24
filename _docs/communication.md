@@ -25,7 +25,7 @@ A lot of good communication will happen at our [hack-summit](hack-summit.html), 
 Where we **store info**:
 
 -   Google Docs - we used it for almost everything now-a-days. Our main doc is the [dashboard](dashboard.html)
--   Dropbox - we have a dropbox business account that we used for shared docs that don't fit in google docs.
+-   Dropbox - we have a dropbox account that we used for shared docs that don't fit in google docs.
 -   GitHub - a github organization account for shared code and, well, the DNA that you are reading right now.
 
 How we **communicate with the outside world**:
@@ -35,6 +35,6 @@ How we **communicate with the outside world**:
 -   A mailing list for our customers and course participants, we send information about upcoming courses about once or twice per quarter.
 -   Twitter - our twitter handle is [@123agility](https://twitter.com/123agility/)
 -   [Linkedin](https://www.linkedin.com/company-beta/18158595/)
--   Through speaking and workshops at confrences and events
--   At local (public) meet-ups
+-   Through speaking and workshops at confrences and [events](http://theagilitycollective.com/tag/speaking/)
+-   At local (public) [meet-ups](http://theagilitycollective.com/tag/meetup/)
 -   ... but the biggest channel of communication is of course the personal and informal channels - our members own tweeting, blogging, and talking to friends and customers. Together we have a huge network!
