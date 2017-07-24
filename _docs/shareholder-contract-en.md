@@ -17,7 +17,7 @@ Has this date been the following shareholder agreement.
 The parties to this agreement (original and additional) are hereinafter referred to as "party" or "shareholder" and "jointly" or "shareholder" together.
 
 ## COMPANY'S OPERATIONS MM
-1.1 This agreement covers all parties' current and future shares in Crisp AB, 556756-3753, hereinafter referred to as "the Company", which includes all shares, convertible debentures and other instruments representing the right to issue shares in the Company and which the parties may acquire during the term of the agreement .
+1.1 This agreement covers all parties' current and future shares in The Agility Collective, hereinafter referred to as "the Company", which includes all shares, convertible debentures and other instruments representing the right to issue shares in the Company and which the parties may acquire during the term of the agreement .
 
 1.2. Party shall be loyal to the Company's best interests.
 
@@ -106,4 +106,3 @@ This agreement has been made in [NUMBER OF PARTICIPANTS] copies, of which the pa
 
 
 
-In the meantime, here's a [google translation](https://translate.google.com/translate?sl=sv&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fdna.crisp.se%2Fdocs%2Fshareholder-contract-sv.html) of the contract. Not pretty, but you should get the general idea.
