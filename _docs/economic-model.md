@@ -20,7 +20,7 @@ Suppose Joe is a consultant with the Collective, and his current client is Innit
 4.  Joe sends a $9,000 invoice from his personal company to The Agility Collective ($10,000 minus the 10% " the collective's tax").
 
 **Result for January:**
-Innitech pays $10,000, Joe earns $9,000, Crisp earns $1,000.
+Innitech pays $10,000, Joe earns $9,000, Agility Collective earns $1,000.
 
 In addition, once per quarter the Collective will send a $1500 invoice to Joe's company (3 x $500, the monthly fixed fee).
 
