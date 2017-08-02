@@ -7,7 +7,7 @@ next_section: how-theagilitycollective-works.html
 What is The Agility Collective and why?
 ======================
 
-**The Agility Collective is a home for business consultants specialising in agile or lean practices. We are consultants who value:**
+**The Agility Collective is a home for business consultants specialising in agile and lean practices. We are consultants who value:**
 
 -   **Community** - We like to hang out with people who share our values
 -   **Freedom** - We want to control our own time
@@ -19,4 +19,4 @@ We believe these values lead to both personal happiness, as well as business suc
 
 Basically, we're trying to find the magic balance between being an independent consultant (with full freedom, but no support), and being an employee (with little freedom, but lots of support).
 
-The model allows us build a 'practice' that draw from a deep and rich pool of talent. This gives us the ability to build client-facing teams with the the diversity and experienced required to solve complex business challanges. 
+The model allows us to build a 'practice' that draws from a deep and rich pool of talent. This gives us the ability to build client-facing teams with the diversity and experienced required to solve complex business challanges. 
