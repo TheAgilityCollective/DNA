@@ -103,4 +103,4 @@ Welcome! You'll need to sign our [team contract](team-contract-en.html), and cre
 
 Congrats, you are now your own manager! Be nice.
 
-We will also go for dinner at a nice restaurant, setup your email account and all that jazz, like most other companies. And we'll proudly display you on our [site](https://theagilitycollective.com) of course!
+We will also go for dinner at a nice restaurant, setup your email account and all that jazz, like most other companies. And we'll proudly display you on our [site](http://theagilitycollective.com) of course!
