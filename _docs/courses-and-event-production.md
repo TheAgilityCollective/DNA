@@ -4,7 +4,6 @@ prev_section: building-competence.html
 next_section: brand-building.html
 ---
 
-## Requires work, e.g provisioning training space
 
 Courses and event production
 ============================
@@ -29,33 +28,6 @@ Driving principles:
 
 The Producer doesn't necessarily have to teach the course (although that's the most common case). Sometimes a producer will invite a "star" (someone outside of the collective who is a well-known "guru" within his/her field) and host or co-teach a course.
 
-Example
--------
-
-Here's a high-level summary of what happens with a typical course:
-
-1.  Joe decides to teach an Agility Leadership course.
-2.  Joe opens the  calendar on Google, finds an open slot Feb 12-13, and writes "LOC: Agile Leadership course (Joe)"
-3.  Joe asks the [office team](office-team.html) to set up a registration page. He has taught this course before, so they copy-paste from last course instance.
-4.  Joe synchronizes with other producers to make sure his course is mentioned in the next marketing email (see next section below).
-5.  Registrations start coming in. We have a home-grown tool to process registrations and send email confirmations. Course registrations automatically end up in Google Spreadsheet.
-6.  About a week before the course, the office team sends a welcome email to the course participants
-7.  Feb 12 arrives. Joe shows up at the Collective. Breakfast is served, handouts printed, everything ready to go thanks to the awesome office team!
-8.  This is also the day when the office team sends invoices to participants. They will also follow up on payment.
-9.  At the end of the course, he asks people to fill in a course feedback sheet. He notes some improvement ideas, calculates the Net Promoter Score, and adds a row to our shared Course Log (see Quality below).
-10. The office team sends an email to all course participants with a link to course materials and such. They also add the course participants to our mailing list for future event notifications (they can of course opt out at any time)
-11. Joe figures out the course profit and sends an invoice to the Collective (minus the [Crisp tax](economic-model.html), just like with any consulting).
-
-Quality and customer feedback
------------------------------
-
-We are pretty systemic when it comes to course quality. For every course, the Producer is expected to measure [Net Promoter Score](http://en.wikipedia.org/wiki/Net_Promoter) (NPS) and post it on the Course Log (a shared spreadsheet listing all courses and basic data such as who produced it, how many participants showed up, NPS, etc).
-
-The purpose of the course log is to provide internal transparency, so we can learn from each other's successes and failures. It's not mandatory (very few things are), but we encourage each other to fill it in.
-
-We also encourage a lot of pair-teaching and informal visits to each other's courses. As a result, we can gradually improve all the time! 
-
-Nevertheless, we do expect new and experimental courses (or less experienced teachers) to start with a lower NPS. And there's no shame in that, as long as you keep experimenting and improving.
 
 Marketing
 ---------
