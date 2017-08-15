@@ -7,12 +7,12 @@ next_section: communication.html
 Recruitment - how we grow
 =========================
 
-Recruitment is actually a misnomer, as we don't actively 'recruit' consultants. However, are always interested in having "conversaions" with people who fit our model and business aims ...and who have fresh ideas on how the collective can continue to grow. 
+Recruitment is actually a misnomer, as we don't actively 'recruit' consultants. However, we are always interested in having "conversaions" with people who 'fit'. People who have a deep understanding of what we are trying to acheive and fresh ideas on how we can continue to grow. 
 
-So... how did we get consultants then?
+How did we get consultants?
 ---------------------------------------------------------
 
-We recognise that Business agility is a growing field, so finding people with full end-to-end experience are thin on the ground ...or may not even exist at all ...but we are mature operators, so have a pretty good idea of "who's" out there, and the skills and apptitude needed to plug the gaps for our clients. In all likleyhood if you are doing GREAT stuff ...we probably already know about you and may contact you. 
+Awesome people required! We recognise that Business agility is a growing field, so finding people with full end-to-end experience are thin on the ground ...or may not even exist at all. But, we are mature operators so have a pretty good idea of "who's" out there. In all likleyhood if you are doing GREAT stuff ...we probably already know about you and may contact you. 
 
 If you havn't been contactet yet, this may just mean we have not crossed paths, so if you think you fit what we are looking for, please contact us. 
 
