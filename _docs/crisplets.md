@@ -7,6 +7,8 @@ next_section: conflict-handling.html
 Crisplets
 =========
 
+In homage to Crisp, we have maintained the use of the word "crisplet" to describe this activity. Perhaps as our own model grows and takes a life of it's own, a litle bit of crisps light will remain to shine.
+
 How do bottom-up initiatives get funded? How do you get money to do something without a budget process?
 
 Answer: If you want something that needs funding, form a Crisplet. That is, find others that want the same thing and are willing to pay for it with their own money. The Collective can foot the bill initially.
