@@ -12,7 +12,7 @@ Recruitment is actually a misnomer, as we don't actively 'recruit'. What we do i
 How do we engage consultants?
 -----------------------------------------------------
 
-Awesome people required! We recognise that business agility is a growing field, so finding people with full end-to-end experience are thin on the ground ...or may not even exist at all. But we are mature operators, so have a pretty good idea of "who's" out there. In all likleyhood if you are actively doing GREAT stuff ...we probably already know about you and may contact you. 
+Awesome people required! We recognise that business agility is a growing field, so finding people with full end-to-end experience are thin on the ground ...or may not even exist at all. But we are mature operators, so have a pretty good idea of "who's" out there. In all likelihood if you are actively doing GREAT stuff ...we probably already know about you and may contact you. 
 
 If you haven't been contacted yet, this may just mean we have not crossed paths, so if you think you fit what we are looking for, and the collective fits you, please contact us. 
 
