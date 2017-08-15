@@ -7,35 +7,57 @@ next_section: communication.html
 Recruitment - how we grow
 =========================
 
-We don't actively recruit consultants. There's no economic incentive to do so, and each new addition makes us a bit more anonymous, a bit less personal, and a bit harder to coordinate.
+Recruitment is actually a misnomer, as we don't actively 'recruit' consultants. However, are always interested in having "conversaions" with people who fit our model and business aims ...and who have fresh ideas on how the collective can continue to grow. 
 
 So... how did we get consultants then?
 ---------------------------------------------------------
 
-Like vampires, fresh blood makes us stronger. New people who are smart and passionate will challenge the status quo and inject new ideas! That compensates for the pain of growing.
+We recognise that Business agility is a growing field, so finding people with full end-to-end experience are thin on the ground ...or may not even exist at all ...but we are mature operators, so have a pretty good idea of "who's" out there, and the skills and apptitude needed to plug the gaps for our clients. In all likleyhood if you are doing GREAT stuff ...we probably already know about you and may contact you. 
 
-The right balance seems to be about 1-3 new consultants per year, so that's what we aim for. Enough to keep us on our toes without excessive growth pain. 
+If you havn't been contactet yet, this may just mean we have not crossed paths, so if you think you fit what we are looking for, please contact us. 
 
-OK, maybe vampire isn't the best metaphor. But you get the idea.
 
-Hire awesome people, or don't hire at all
+Acquire awesome people, or don't acquire at all
 -----------------------------------------
 
-Worth repeating: **hire awesome people, or don't hire at all!**
+Worth repeating: **acquire awesome people, or don't acquire at all!**
 That's what [makes our model work](why-this-works.html).
 
 Who gets to join
 ----------------
 
-We don't have an HR department or recruiters, so there's not much bandwidth or interest to headhunt people. However, we're fortunate to have a steady stream of interesting people knocking on the door, so we're lazy and go for the safe bets.
+There are two major streams of people that fit our profile.
+1) Those coming from the IT field directly. Senior coachers and trainers of capital 'A' Agile practices. They are senior in that they often have their own businesses (and probably have been operating sucessfully for a number of years). However, many of the prople coming from this stream have limited ability to extend the conversation outside if the IT realm, so have difficulty communicating mindset and practice outside of a dev/ops environment. 
+2) The second stream, and the one we are activly developing, consists of people who are using lean and systems thinking principles outside of IT. Espesally in areas like HR and Finance or more generally in management or change. In many cases these people may not have active experience in a 'transformational sence' but have aninate understanding of the principles involved, and a strong desire to influence change.
 
-Our minimum bar is:
+In many cases the people we speak to are already recognised as leaders in specialist areas, and running their own business. In many cases these people have found the've hit a glass ceiling in what their own practice can acheive, so being part of a collective will help them grow both professionally and personally. They recognise that being part of a collective extents their reach and influence, in terms of building new business, and that they can focus on delivery and less time in building their practice.  A main aim of the collective is to support continued development of the member as much as possible. For in stance activly encourage and suppport members in continuing to develop their individual though-leader profiles and brand. We do not see this as a conflict. In saying this, a main aim of the collective is also, that members see and understand the benifit of the collectives own brand and fully support it as well, so some balance of priorities may be necessary. 
 
+The on-boarding process. 
+---------
+
+If we havn't worked with you before, then the first step starts with you. Make sure you read and fully understand 1) our principles and DNA of how we operate, and 2) what we are trying to achive (from the website). For many people, it's obvious this wont work, and little time is wasted, it should only take about 15min to work that out.
+
+The next step starts as a conversation, usually with a founding member of the collective (who acts as a puller, similar to the bun holder in our [bun protocol](bun-protocol.html).) If this goes well, we will invite, or ask your permission ...to "continue the conversation". This is code for: it looks like we have good alignment. 
+
+We don't like to use the word trial but it's kinda a trial in that you get a better sence of how we work and whats expected of you, and we get a better sence of how you operate and the value you are bringing. All going well, this conversation would include us giving you access to behind the scenes activity, trello boards, zoom meeting etc. This way we are all comfortable with where things are going. 
+
+The formal process follows out democratic principles 
+----
 1.  Someone at the Collective is willing to be a "puller" for the candidate. That's our internal term for the person "pulling" an initiative and making sure things move forward, and that the candidate is well-treated. Similar to the bun holder in our [bun protocol](bun-protocol.html).
-2.  At least one us has worked with the candidate before. We want someone to say "Hey, I've worked with her before, she's awesome! We'd be IDIOTS not to let her join!"
+2.  At least one us has worked with the candidate before. We want someone to say "Hey, I've worked with her before, she's awesome! We'd be IDIOTS not to let her join!" or we have gone through the 
+'conversation" satve above.
 3.  No one has vetoed the candidate.
 
 This considerably limits the number of applicants.
+
+If accepted ...Welcome! You'll need to sign our [team contract](team-contract-en.html), and create your own personal company (if you don't already have one). Formally you'll be employed by your company, not 'the collective'. We'll help you get started.
+
+Congrats, you are now your own manager! Be nice.
+
+We will also go for dinner at a nice restaurant, setup your email account and all that jazz, like most other companies. And we'll proudly display you on our [site](http://theagilitycollective.com) of course!
+
+Other things
+-----
 
 Other things that we value and use to help us determine who to accept and reject (but don't always require):
 
@@ -74,33 +96,4 @@ Most people who end up at the Collective were previously independent consultants
 
 Of course, not everyone here has all these traits. But this is typically the type of person who is attracted to us.
 
-What's the recruitment process?
--------------------------------
 
-This is a work in progress. We've decided to clarify the process a little bit and experiment! The default process is as follows (we handle exceptions the same we make any other [decisions](decisions.html).
-
-1.  Mr X (a candidate) approaches us and asks to join.
-2.  Ms Y says she'd be happy to be X's "puller". All candidates must have a "puller" to proceed with the recruitment process. First requirement is met!
-3.  Y makes sure that the other minimum requirements are met:
-    1.  She finds out which of the collective have worked with Mr X before and what they think of him. That takes care of the requirement that someone has worked with X before.
-    2.  If those who know X give a thumbs up, he's now an official candidate. At this point she sends an email to the other members, for example:  "I think X should be a accepted, because \[reasons\]. Anyone against?". She also adds Mr X to the recruitment document.
-    3.  Then she does what she deems necessary to make sure that people at 'the collective' know about X and have a chance to get to know him. She might organize interviews or tests or she might invite X to join the next [hack summit](hack-summit.html). She makes sure that no one is against X becoming a member. As long as no one is against hiring X we keep going forward with the process. Now all the minimum requirements have been met.
-4.  It's now time for Y and all the "pullers" for other potential candidates (plus anyone else interested) to get together and compare the candidates based on our "nice to have" criteria. This is one of the new steps added so we can be sure that we're not saying no to a really good candidate just because we've filled our "hiring quota". The "pullers" put together a list of candidates we should consider, all other candidates are rejected.
-
-What happens if Y wants to recruit X? In that case Y starts at Step 3i, and once it's clear that there are no objections from the other members, she contacts X and if he's on board and would like to join, she then proceeds to step 3ii. The rest of the process is the same. This gives X a chance to get to know the rest of us, and we get a chance to get to know him.
-
-**At the next unconference (we currently have 2 a year):**
-
-1.  Y and the other pullers present the candidates they feel are best suited, and all the members decide which candidates to accept or reject.
-2.  By default we accept one candidate per conference, but this is the perfect opportunity for handling exceptions. If we have more than one candidate who we would really like to invite to join us, we might decide that we can manage the growing pains and take on more than one candidate. If no candidate is selected, that's also ok, we don't need to grow at each conference, and we prefer to make sure we have a great match than to fill a quota.
-
-Bottom line: As long as even one single member is against hiring a candidate, we won't do it. We're not really fond of vetoes, but for recruiting it feels motivated. We prefer the risk of rejecting a good candidate, over the risk of accepting a bad candidate.
-
-How does on-boarding work?
---------------------------
-
-Welcome! You'll need to sign our [team contract](team-contract-en.html), and create your own personal company (if you don't already have one). Formally you'll be employed by your company, not 'the collective'. We'll help you get started.
-
-Congrats, you are now your own manager! Be nice.
-
-We will also go for dinner at a nice restaurant, setup your email account and all that jazz, like most other companies. And we'll proudly display you on our [site](http://theagilitycollective.com) of course!
