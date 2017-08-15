@@ -7,7 +7,7 @@ next_section: conflict-handling.html
 Crisplets
 =========
 
-In homage to Crisp, we have maintained the use of the word "crisplet" to describe this activity. Perhaps as our own model grows and takes a life of it's own, a litle bit of crisps light will remain to shine.
+In homage to Crisp, we have maintained the use of the word "crisplet" to describe this activity. Perhaps as our own model grows and takes a life of it's own, a litle bit of crisps light will remain.
 
 How do bottom-up initiatives get funded? How do you get money to do something without a budget process?
 
