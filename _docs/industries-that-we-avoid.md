@@ -7,20 +7,20 @@ next_section: hack-summit.html
 Industries that we avoid
 ========================
 
-Currently we avoid the arms industry and the surveillance industry, and some others on a case-by-case basis.
+Currently we do not have any industries that we avoid, but that might change in the future.
 
-Why do we avoid these industries?
+Why we might avoid some industries?
 ---------------------------------
 
-Our two [core values](what-is-crisp.html) "Freedom" and "Heart over Wallet" can sometimes collide. For example when it comes to which industries we work in. Some Crispers feel very strongly against the arms industry and the surveillance industry - for them, "Heart over Wallet" means avoiding those industries even if it means a loss of profit, and they don't want to associate with a consulting company that works with these industries.
+Our two [core values](what-is-crisp.html) "Freedom" and "Heart over Wallet" can sometimes collide. For example when it comes to which industries we work in. Some members may feel very strongly against say the arms or surveillance industry - for them, "Heart over Wallet" means avoiding those industries even if it means a loss of profit, and they don't want to associate with a consulting company that works with these industries.
 
 On the other hand, our "Freedom" principle means that people can work with whatever they want, and some of us have no moral qualms with these industries.
 
 So what gives?
 
-To maintain a [happy home](what-is-crisp.html) with mutual respect, we've agreed on this compromise:
+To maintain a [happy home](what-is-theagilitycollective.html) with mutual respect, we've agreed on this compromise:
 
-1.  the Collective doesn't work with industries that at least one member has a strong opinion against (currently Arms and Surveillance).
+1.  the Collective doesn't work with industries that at least one member has a strong opinion against.
 2.  If someone really wants to take on such a client, they must do so outside of the Collective.
 
 How do we decide which industries are blacklisted?
