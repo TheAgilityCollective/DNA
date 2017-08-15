@@ -10,7 +10,7 @@ Recruitment - how we grow
 Recruitment is actually a misnomer, as we don't actively 'recruit'. What we do is have "conversations" with people who may 'fit'. People with a deep appreciation or understanding of what we are trying to achieve, and fresh ideas on how we can continue to grow. 
 
 How do we engage consultants?
----- -----------------------------------------------------
+-----------------------------------------------------
 
 Awesome people required! We recognise that business agility is a growing field, so finding people with full end-to-end experience are thin on the ground ...or may not even exist at all. But we are mature operators, so have a pretty good idea of "who's" out there. In all likleyhood if you are actively doing GREAT stuff ...we probably already know about you and may contact you. 
 
@@ -18,13 +18,13 @@ If you haven't been contacted yet, this may just mean we have not crossed paths,
 
 
 Acquire awesome people, or don't acquire at all
----- -------------------------------------
+-------------------------------------
 
 Worth repeating: **acquire awesome people, or don't acquire at all!**
 That's what [makes our model work](why-this-works.html).
 
 Who gets to join
----- ------------
+------------
 
 There are two major streams of people that fit our profile.
 1) Those coming from the IT field directly. Senior coachers and trainers of capital 'A' Agile practices. They are seasoned, in that they often have their own businesses and probably have been operating sucessfully for a number of years. However, many of the prople coming from this stream have limited ability to extend the conversation of agility outside the IT realm, in other words difficulty communicating mindset and practice outside of a dev/ops environment. 
@@ -35,7 +35,7 @@ In many cases the people we speak to are already recognised as leaders in specia
 A main aim of the collective is to support the continued development of our members. For instance, to activly encourage and suppport members in continuing to develop their individual though-leader profile and brand. We do not see this as a conflict. In saying this, another aim (or kpi of the collective) is that members also see and understand the benifit of working to build the collective, and equally committed in building collectives brand. So, some balance of priorities may be necessary. 
 
 The on-boarding process. 
----- -----
+-----
 
 If we haven't worked with you before, then the first step starts with you. Make sure you read and fully understand 1) our principles and DNA of how we operate, and 2) what we are trying to achive (you can get this from the website). For many people, it's obvious our model wont work, and little time is wasted. It should only take about 15min to work this out.
 
@@ -58,7 +58,7 @@ Congrats, you are now your own manager! Be nice.
 We will also go for dinner at a nice restaurant, setup your email account and all that jazz, like most other companies. And we'll proudly display you on our [site](http://theagilitycollective.com) of course!
 
 Other things
----- -
+----
 
 Other things that we value and we may use to help determine who to accept and reject (but don't always require):
 
@@ -70,21 +70,21 @@ Other things that we value and we may use to help determine who to accept and re
 Tips to candidates: Inspire us! Show us your skills, technical and social! Present something new and exciting at one of our events, or join us for a [hack summit](hack-summit.html). Prepare for lots of intense discussions, critique and laughter – we’re a merry bunch, but we need to be convinced you are good at what you do. Why? Because we want to learn from you, and we want the clients to rave over how awesome you are. We are all investing much time spent building up a great reputation, and we want you to make it even better!
 
 Don't steal people from clients!
----- ----------------------------
+----------------------------
 
 One golden rule as a consultant is to never ever hire a co-worker from a client. Managers obviously don't want consultants to steal their employees, so we won't recruit a candidate until after both the candidate and the consultant have left the place where they worked together. Sometimes years after.
 
 We are in no hurry to grow. An awesome person is worth waiting for.
 
 What kind of people don't fit at our model?
----- -----------------------------------
+-----------------------------------
 
 People who want stability don't fit. You won't have stable working hours and a fixed desk. You won't even get a fixed salary - in fact, it's the other way around - you pay a fee (but keep most of what you earn). See the [economic model](economic-model.html). So when you don't have a client, you bleed money every month! On the other hand, when you do have a client, you earn more than what any company would pay you in salary. So it's up to you to buffer cash and manage risk.
 
 This kind of model obviously doesn't fit everyone.
 
 What kind of people do fit here?
----- --------------------------------
+--------------------------------
 
 Most people who end up at the Collective were previously independent consultants (or were heading in that direction). Typical personality traits:
 
